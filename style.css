@@ -7,11 +7,8 @@ h1 {
 	top: 5%;
 	right: 5%;
 }
-.pink {
-	color: #d50180;
-}
 .title2 {
-	color: white;
+	color: #634949;
 	position: absolute;
 	top: 12%;
 	right: 5%;
@@ -42,7 +39,7 @@ h1 {
 	cursor: pointer;
 }
 .img1:hover {
-	box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+	/*box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);*/
 	border-radius: 10px;
 }
 .background {
@@ -65,7 +62,7 @@ h1 {
 	cursor: pointer;
 }
 .img2:hover {
-	box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+	/*box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);*/
 	border-radius: 10px;
 }
 .picture {
@@ -88,7 +85,7 @@ h1 {
 	cursor: pointer;
 }
 .img3:hover {
-	box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+	/*box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);*/
 	border-radius: 10px;
 }
 .together {
@@ -111,7 +108,7 @@ h1 {
 	cursor: pointer;
 }
 .img4:hover {
-	box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+	/*box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);*/
 	border-radius: 10px;
 }
 #toggleCheckbox {
@@ -156,7 +153,7 @@ label {
 	font-size: 20px;
 	}
 	.title2 {
-	color: white;
+	color: #634949;
 	position: absolute;
 	top: 6%;
 	right: 5%;
@@ -233,6 +230,7 @@ label {
 	color: #634949;
 	font-family: gamtanroad-tantan, sans-serif;
 	font-size: 20px;
+	line-height: 2;
 }
 .L1 {
 	position: absolute;
@@ -307,6 +305,7 @@ label {
 	color: #634949;
 	font-family: gamtanroad-tantan, sans-serif;
 	font-size: 20px;
+	line-height: 2;
 }
 .B1 {
 	position: absolute;
@@ -381,6 +380,7 @@ label {
 	color: #634949;
 	font-family: gamtanroad-tantan, sans-serif;
 	font-size: 20px;
+	line-height: 2;
 }
 .P1 {
 	position: absolute;
@@ -413,6 +413,7 @@ label {
 	color: #634949;
 	font-family: gamtanroad-tantan, sans-serif;
 	font-size: 20px;
+	line-height: 2;
 }
 .T1 {
 	position: absolute;
