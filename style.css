@@ -111,38 +111,12 @@ h1 {
 	/*box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);*/
 	border-radius: 10px;
 }
-#toggleCheckbox {
-  display: none;
-}
-#introText {
-  display: none;
-  margin-top: 10px;
-  padding: 10px;
-  border: 1px solid #ddd;
+.introText {
   background-color: #f9f9f9;
-  border-radius: 5px;
   position: absolute;
   bottom: 8%;
-  left: 20%;
-  right: 3%;
   font-family: gamtanroad-tantan, sans-serif;
-}
-#toggleCheckbox:checked + label + #introText {
-  display: block;
-}
-label {
-  cursor: pointer;
-  padding: 8px 15px;
-  background-color: #d26ea2;
-  color: white;
-  border-radius: 10px;
-  user-select: none;
-  font-size: 20px;
-  display: inline-block;
-  position: absolute;
-  bottom: 8%;
-  left: 3%;
-  font-family: gamtanroad-tantan, sans-serif;
+  left: 2%;
 }
 @media screen and (max-width: 700px){
 	.title1 {
@@ -206,11 +180,11 @@ label {
 	font-size: 20px;
 	font-weight: 400;
 	}
-	#introText {
+	.introText {
 	position: absolute;
- 	bottom: 6%;
- 	left: 20%;
- 	right: 3%;
+ 	bottom: 4%;
+ 	left: 5%;
+ 	right: 5%;
 	}
 }
 
@@ -222,6 +196,7 @@ label {
 	color: #634949;
 	font-family: gamtanroad-tantan, sans-serif;
 	font-size: 40px;
+	word-break: keep-all;
 }
 .title3 {
 	text-align: center;
@@ -231,6 +206,10 @@ label {
 	font-family: gamtanroad-tantan, sans-serif;
 	font-size: 20px;
 	line-height: 2;
+	word-break: keep-all;
+	padding-bottom: 50px;
+	left: 5%;
+	right: 5%;
 }
 .L1 {
 	position: absolute;
@@ -297,6 +276,7 @@ label {
 	color: #634949;
 	font-family: gamtanroad-tantan, sans-serif;
 	font-size: 40px;
+	word-break: keep-all;
 }
 .title4 {
 	text-align: center;
@@ -306,6 +286,10 @@ label {
 	font-family: gamtanroad-tantan, sans-serif;
 	font-size: 20px;
 	line-height: 2;
+	word-break: keep-all;
+	padding-bottom: 50px;
+	left: 5%;
+	right: 5%;
 }
 .B1 {
 	position: absolute;
@@ -372,6 +356,7 @@ label {
 	color: #634949;
 	font-family: gamtanroad-tantan, sans-serif;
 	font-size: 40px;
+	word-break: keep-all;
 }
 .title5 {
 	text-align: center;
@@ -381,6 +366,10 @@ label {
 	font-family: gamtanroad-tantan, sans-serif;
 	font-size: 20px;
 	line-height: 2;
+	word-break: keep-all;
+	padding-bottom: 50px;
+	left: 5%;
+	right: 5%;
 }
 .P1 {
 	position: absolute;
@@ -405,6 +394,7 @@ label {
 	color: #634949;
 	font-family: gamtanroad-tantan, sans-serif;
 	font-size: 32px;
+	word-break: keep-all;
 }
 .title6 {
 	text-align: center;
@@ -414,6 +404,10 @@ label {
 	font-family: gamtanroad-tantan, sans-serif;
 	font-size: 20px;
 	line-height: 2;
+	word-break: keep-all;
+	padding-bottom: 50px;
+	left: 5%;
+	right: 5%;
 }
 .T1 {
 	position: absolute;
