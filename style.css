@@ -48,7 +48,7 @@ h1 {
 	height: 100vh;
 	top: 0%;
 	left: 25%;
-	background-color: #ebbbd0;
+	background-color: #f3dce8;
 	z-index: -1;
 }
 .img2 {
@@ -71,7 +71,7 @@ h1 {
 	height: 100vh;
 	top: 0%;
 	left: 50%;
-	background-color: #e896bf;
+	background-color: #f3dce8;
 	z-index: -1;
 }
 .img3 {
@@ -94,7 +94,7 @@ h1 {
 	height: 100vh;
 	top: 0%;
 	right: 0%;
-	background-color: #d26ea2;
+	background-color: #f3dce8;
 	z-index: -1;
 }
 .img4 {
@@ -112,7 +112,6 @@ h1 {
 	border-radius: 10px;
 }
 .introText {
-  background-color: #f9f9f9;
   position: absolute;
   bottom: 8%;
   font-family: gamtanroad-tantan, sans-serif;
@@ -148,7 +147,7 @@ h1 {
 	height: 50vh;
 	top: 0%;
 	left: 50%;
-	background-color: #ebbbd0;
+	background-color: #f3dce8;
 	z-index: -1;
 	}
 	.picture {
@@ -157,7 +156,7 @@ h1 {
 	height: 50vh;
 	top: 50%;
 	left: 0%;
-	background-color: #e896bf;
+	background-color: #f3dce8;
 	z-index: -1;
 	}
 	.together {
@@ -166,7 +165,7 @@ h1 {
 	height: 50vh;
 	top: 50%;
 	right: 0%;
-	background-color: #d26ea2;
+	background-color: #f3dce8;
 	z-index: -1;
 	}
 	.explain {
